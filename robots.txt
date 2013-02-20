@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://gem-tutorial.github.com/sitemap.xml 
